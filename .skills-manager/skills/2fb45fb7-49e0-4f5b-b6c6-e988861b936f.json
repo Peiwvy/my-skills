@@ -1,16 +1,14 @@
 {
   "schema_version": 1,
-  "skill_id": "29520d9d-2783-4553-9384-cbef986945c1",
-  "path": "aihot-2",
-  "path_key": "aihot-2",
+  "skill_id": "2fb45fb7-49e0-4f5b-b6c6-e988861b936f",
+  "path": "neat-freak",
+  "path_key": "neat-freak",
   "enabled": true,
-  "tags": [
-    "creative"
-  ],
+  "tags": [],
   "source": {
     "type": "git",
     "ref": "https://github.com/KKKKhazix/khazix-skills",
-    "subpath": "aihot",
+    "subpath": "neat-freak",
     "branch": null
   }
 }
