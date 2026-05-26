@@ -4,7 +4,9 @@
   "path": "getdata",
   "path_key": "getdata",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

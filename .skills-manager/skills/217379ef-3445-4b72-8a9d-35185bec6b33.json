@@ -4,7 +4,9 @@
   "path": "thought-mining",
   "path_key": "thought-mining",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

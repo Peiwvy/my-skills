@@ -4,7 +4,9 @@
   "path": "book2skill",
   "path_key": "book2skill",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

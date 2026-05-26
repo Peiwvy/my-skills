@@ -4,7 +4,9 @@
   "path": "vault-system-design",
   "path_key": "vault-system-design",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

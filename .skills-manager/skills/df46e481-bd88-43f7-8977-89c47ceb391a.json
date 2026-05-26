@@ -4,7 +4,9 @@
   "path": "feynman-learner",
   "path_key": "feynman-learner",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

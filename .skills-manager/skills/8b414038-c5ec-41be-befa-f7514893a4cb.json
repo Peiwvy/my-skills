@@ -4,7 +4,9 @@
   "path": "tradingview-quantitative",
   "path_key": "tradingview-quantitative",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

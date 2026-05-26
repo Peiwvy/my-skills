@@ -4,7 +4,9 @@
   "path": "planning-with-files",
   "path_key": "planning-with-files",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

@@ -4,7 +4,9 @@
   "path": "vault-distill",
   "path_key": "vault-distill",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

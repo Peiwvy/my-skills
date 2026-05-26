@@ -4,7 +4,9 @@
   "path": "writing-assistant",
   "path_key": "writing-assistant",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

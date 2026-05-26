@@ -3,6 +3,6 @@
   "scenario_id": "be35b9f8-d921-4876-9cae-445a0072172a",
   "name": "obsidian",
   "description": "Default startup scenario",
-  "icon": "briefcase",
+  "icon": "book-open",
   "sort_order": 0
 }

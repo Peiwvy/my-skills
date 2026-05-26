@@ -4,7 +4,9 @@
   "path": "grill-me",
   "path_key": "grill-me",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

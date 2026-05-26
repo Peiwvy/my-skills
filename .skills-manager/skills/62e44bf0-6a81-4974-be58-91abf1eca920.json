@@ -4,7 +4,9 @@
   "path": "obsidian-bases",
   "path_key": "obsidian-bases",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

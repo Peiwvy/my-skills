@@ -4,7 +4,9 @@
   "path": "paper-reader-heilmeier",
   "path_key": "paper-reader-heilmeier",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

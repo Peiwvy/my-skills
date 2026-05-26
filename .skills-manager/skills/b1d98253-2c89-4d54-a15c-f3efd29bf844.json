@@ -4,7 +4,9 @@
   "path": "obsidian-cli",
   "path_key": "obsidian-cli",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,

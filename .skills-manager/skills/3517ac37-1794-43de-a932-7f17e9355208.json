@@ -4,7 +4,9 @@
   "path": "company-analysis",
   "path_key": "company-analysis",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "obsidian"
+  ],
   "source": {
     "type": "local",
     "ref": null,
