@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "skill_id": "217379ef-3445-4b72-8a9d-35185bec6b33",
-  "path": "thought-mining",
-  "path_key": "thought-mining",
+  "skill_id": "eb62e47f-1b44-40c5-9c3b-1d82e9315799",
+  "path": "study-socrates",
+  "path_key": "study-socrates",
   "enabled": true,
   "tags": [
     "obsidian"

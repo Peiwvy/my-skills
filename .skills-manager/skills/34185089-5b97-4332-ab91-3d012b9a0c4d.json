@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "skill_id": "9a6e1de0-7bd9-4ece-9759-36e20b7ea3e2",
-  "path": "summarize",
-  "path_key": "summarize",
+  "skill_id": "34185089-5b97-4332-ab91-3d012b9a0c4d",
+  "path": "study-feynman-learner",
+  "path_key": "study-feynman-learner",
   "enabled": true,
   "tags": [
     "obsidian"

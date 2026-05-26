@@ -5,7 +5,7 @@
   "path_key": "skill-creator",
   "enabled": true,
   "tags": [
-    "obsidian"
+    "basic"
   ],
   "source": {
     "type": "local",

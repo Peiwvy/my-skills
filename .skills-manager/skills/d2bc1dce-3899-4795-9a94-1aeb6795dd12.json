@@ -4,7 +4,9 @@
   "path": "grill-with-docs",
   "path_key": "grill-with-docs",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "basic"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "mattpocock/skills/grill-with-docs",

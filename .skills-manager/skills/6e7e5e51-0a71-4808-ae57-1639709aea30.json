@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "skill_id": "e9e1c170-c9b0-43f7-ad70-a6b30b2a40a0",
-  "path": "narrative-writing",
-  "path_key": "narrative-writing",
+  "skill_id": "6e7e5e51-0a71-4808-ae57-1639709aea30",
+  "path": "vault-getdata",
+  "path_key": "vault-getdata",
   "enabled": true,
   "tags": [
     "obsidian"
