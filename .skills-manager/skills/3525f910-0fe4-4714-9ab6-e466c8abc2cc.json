@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3525f910-0fe4-4714-9ab6-e466c8abc2cc",
+  "path": "neat-freak-2",
+  "path_key": "neat-freak-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/KKKKhazix/khazix-skills",
+    "subpath": "neat-freak",
+    "branch": null
+  }
+}
