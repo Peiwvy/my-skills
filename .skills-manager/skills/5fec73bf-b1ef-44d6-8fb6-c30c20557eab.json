@@ -4,7 +4,9 @@
   "path": "hv-analysis-2",
   "path_key": "hv-analysis-2",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "creative"
+  ],
   "source": {
     "type": "git",
     "ref": "https://github.com/KKKKhazix/khazix-skills",

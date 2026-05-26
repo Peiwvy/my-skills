@@ -4,7 +4,9 @@
   "path": "aihot-2",
   "path_key": "aihot-2",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "creative"
+  ],
   "source": {
     "type": "git",
     "ref": "https://github.com/KKKKhazix/khazix-skills",
