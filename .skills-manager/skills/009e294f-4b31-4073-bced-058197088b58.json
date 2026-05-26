@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "009e294f-4b31-4073-bced-058197088b58",
+  "path": "lesson-builder",
+  "path_key": "lesson-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

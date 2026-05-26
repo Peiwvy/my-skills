@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a6e1de0-7bd9-4ece-9759-36e20b7ea3e2",
+  "path": "summarize",
+  "path_key": "summarize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

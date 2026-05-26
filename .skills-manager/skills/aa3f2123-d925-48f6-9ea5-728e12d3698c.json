@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa3f2123-d925-48f6-9ea5-728e12d3698c",
+  "path": "socrates",
+  "path_key": "socrates",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

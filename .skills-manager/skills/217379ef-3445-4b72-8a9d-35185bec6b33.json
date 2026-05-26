@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "217379ef-3445-4b72-8a9d-35185bec6b33",
+  "path": "thought-mining",
+  "path_key": "thought-mining",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

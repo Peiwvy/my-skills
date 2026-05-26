@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "df46e481-bd88-43f7-8977-89c47ceb391a",
+  "path": "feynman-learner",
+  "path_key": "feynman-learner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

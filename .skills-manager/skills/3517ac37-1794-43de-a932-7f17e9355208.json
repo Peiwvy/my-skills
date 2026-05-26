@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3517ac37-1794-43de-a932-7f17e9355208",
+  "path": "company-analysis",
+  "path_key": "company-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

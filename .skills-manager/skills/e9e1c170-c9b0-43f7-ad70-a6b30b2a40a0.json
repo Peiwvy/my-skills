@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e9e1c170-c9b0-43f7-ad70-a6b30b2a40a0",
+  "path": "narrative-writing",
+  "path_key": "narrative-writing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
