@@ -7,7 +7,7 @@
     "claude_code": false,
     "codebuddy": true,
     "cursor": true,
-    "hermes": true,
+    "hermes": false,
     "opencode": true,
     "qoder": true
   }
